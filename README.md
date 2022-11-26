@@ -20,6 +20,7 @@ N/A
 ## Deployment
 
 Github repository : https://github.com/marcusgoodwin/day--scheduler
+
 Deployed page : https://marcusgoodwin.github.io/day--scheduler/
 
 N/A
