@@ -17,7 +17,9 @@ N/A
 
 -The only thing you need to do to get this application to function is enter in values on all of the text input blocks.
 
-## Credits
+## Deployment
+
+Github repository : https://github.com/marcusgoodwin/day--scheduler
 
 N/A
 
