@@ -40,7 +40,7 @@ function renderedInput() {
         presentColor(i);
     }
 
-    const localStorageData = JSON.parse(localStorage.getItem('tasks'));
+    const localStorageData = JSON.parse(localStorage.getItem('tasks')) || [];
     if (localStorageData) {
         saveData = localStorageData;
     }
