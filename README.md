@@ -4,7 +4,9 @@
 
 
 -I was able to make this using local storage, and JavaScript.
+
 -One way you could apply this is to use it to plan your next work day. You could also use it write out a schedule for yourself everyday!
+  
 -It functions by storing values entered in by the person using it, and it tracks the time of day for the user so they can keep track of what needs to be done!
 
 ## Installation
